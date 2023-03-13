@@ -1,0 +1,12 @@
+"Bir pizza tabanı seçiniz."
+1:Klasik Pizza (49TL) 
+2:Margarita (56TL)
+3:Türk Pizzası (59TL)
+4:Sade Pizza (44TL)
+"En az 1, en çok 6 adet ek malzeme seçiniz."
+5:Zeytin (19TL)
+6:Mantar (14TL)
+7:Keçi Peyniri (22TL)
+8:Sucuk (29TL)
+9:Soğan (15TL)
+10:Mısır (18TL)
